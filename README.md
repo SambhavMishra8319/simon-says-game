@@ -1,41 +1,43 @@
 # simon-says-game
-🧠 Simon Says Game
-A simple and fun memory game built using HTML, CSS, and JavaScript.
-Test your memory by repeating the pattern of colors that light up — the sequence grows with each level!
 
-🎮 How to Play
-Press any key to start the game.
+# 🧠 Simon Says Game
 
-Watch the color sequence carefully.
+A simple and fun memory game built using **HTML**, **CSS**, and **JavaScript**.
 
-Click the colored buttons in the same order.
+Your goal is to **remember and repeat** the sequence of colors that the game shows. With each level, the sequence gets longer — how far can you go?
 
-If you make a mistake, the game resets.
+---
 
-Try to reach the highest level you can!
+## 🎮 How to Play
 
-💡 Features
-Clean UI with color-coded buttons
+1. Press any key to start the game.
+2. Watch carefully as the buttons flash in a sequence.
+3. Click the buttons in the same order.
+4. If you make a mistake, the game ends.
+5. Try again and beat your high score!
 
-Dynamic level system
+---
 
-Real-time input validation
+## 💡 Features
 
-Responsive click animations
+- Dynamic level tracking
+- Clean layout with colored buttons
+- Instant feedback with animations
+- Simple and minimal codebase
 
-📁 Files Overview
-bash
-Copy
-Edit
+---
+
+## 📁 Project Structure
+
 simon-says-game/
 │
-├── index.html    # Main HTML structure
-├── style.css     # Styling of buttons and layout
-└── app.js        # Core game logic
-⚙️ Technologies Used
-HTML
+├── index.html # Game structure
+├── style.css # Visual styles
+└── app.js # Game logic
 
-CSS
 
-Vanilla JavaScript
+## 🛠️ Tech Stack
 
+- HTML
+- CSS
+- JavaScript (Vanilla)
