@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2.5rem;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s;
+}
+
+.btn-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.red {
+    background-color: red;
+}
+.yellow {
+    background-color: yellow;
+}
+.purple {
+    background-color: purple;
+}
+.green {
+    background-color: green;
+}
+
+.flash {
+    background-color: white !important;
+}
